@@ -9,5 +9,9 @@ result = rr.simulate(start=0, end=50, variableStep=True, plot=True)
 # result = rr.simulate(start=0, end=1, variableStep=True)
 print(result)
 
+result = rr.simulate(0, 50, variableStep=True, plot=True)
+# result = rr.simulate(start=0, end=1, variableStep=True)
+print(result)
+
 result = rr.simulate(start=0, end=50, steps=100, variableStep=False, plot=True)
 print(result)
