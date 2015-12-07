@@ -1,8 +1,12 @@
 from __future__ import print_function
+
 import unittest
+
 import roadrunner
 from multiscale.sbmlutils import validation
-from testdata import galactose_sbml
+
+from models.testdata import galactose_sbml
+
 
 class GalactoseTestCase(unittest.TestCase):
     """
