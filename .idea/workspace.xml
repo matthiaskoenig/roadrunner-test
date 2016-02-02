@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02cc1be7-bc51-4155-8441-a8c5577a50b1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/.ipynb_checkpoints/galactose-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/demo_9_annotated.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/galactose.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/galactose_28_annotated.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/testdata.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/van_der_pol.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/galactose.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/roadrunner/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_galactose.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_roadrunner.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/van_der_pol.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/models/__init__.py" afterPath="$PROJECT_DIR$/tests/examples/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/event_time.py" afterPath="$PROJECT_DIR$/tests/examples/event_time.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/event_time.xml" afterPath="$PROJECT_DIR$/tests/examples/event_time.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/event_timepoint.py" afterPath="$PROJECT_DIR$/tests/examples/event_timepoint.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/event_timepoint.xml" afterPath="$PROJECT_DIR$/tests/examples/event_timepoint.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/jws_example.py" afterPath="$PROJECT_DIR$/tests/examples/jws_example.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/jws_example.xml" afterPath="$PROJECT_DIR$/tests/examples/jws_example.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/mca.py" afterPath="$PROJECT_DIR$/tests/examples/mca.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/mca.xml" afterPath="$PROJECT_DIR$/tests/examples/mca.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/sbml_units.py" afterPath="$PROJECT_DIR$/tests/examples/sbml_units.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/time_peak.py" afterPath="$PROJECT_DIR$/tests/examples/time_peak.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/roadrunner/time_peak.xml" afterPath="$PROJECT_DIR$/tests/examples/time_peak.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="02cc1be7-bc51-4155-8441-a8c5577a50b1" name="Default" comment="" />
     <ignored path="roadrunner-test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -65,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="event_time.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="event_time.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/examples/event_time.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -73,6 +46,16 @@
               <folding>
                 <element signature="e#213#250#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time_peak.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/examples/time_peak.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -120,10 +103,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="474" />
-    <option name="y" value="102" />
-    <option name="width" value="1412" />
-    <option name="height" value="1171" />
+    <option name="x" value="1919" />
+    <option name="width" value="1922" />
+    <option name="height" value="1201" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -151,6 +133,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,27 +166,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="roadrunner-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="roadrunner-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -580,10 +544,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="474" y="102" width="1412" height="1171" extended-state="0" />
+    <frame x="1919" y="0" width="1922" height="1201" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3326241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33229166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -619,6 +583,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/examples/event_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#213#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/multiscale-galactose/python/multiscalepy/multiscale/examples/models/galactose/test_galactose.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -697,20 +671,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -736,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12138728">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,6 +720,14 @@
           <folding>
             <element signature="e#213#250#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/examples/time_peak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
